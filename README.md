@@ -12,7 +12,8 @@
 
 ### 🚀 Проекты  
 Вот несколько моих публичных репозиториев:  
-- [Parser on Python(Selenium)](https://github.com/SirEdwinDrow/Parser-on-Selenium)  
+- [Parser on Python(Selenium)](https://github.com/SirEdwinDrow/Parser-on-Selenium)
+- [Parser on Python(BS4)](https://github.com/SirEdwinDrow/Parser-on-bs4) 
 - *Больше проектов в процессе...*  
 
 ### 📊 GitHub-статистика  
