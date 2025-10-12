@@ -15,6 +15,7 @@
 - [Parser on Python(Selenium)](https://github.com/SirEdwinDrow/Parser-on-Selenium)
 - [Parser on Python(Bs4)](https://github.com/SirEdwinDrow/Parser-on-bs4)
 - [Parser on Python(Bs4) with GUI](https://github.com/SirEdwinDrow/Parser-on-bs4-GUI)
+- [Product site on Django](https://github.com/SirEdwinDrow/Product-SIte-on-Django)
 - *Больше проектов в процессе...*  
 
 ### 📊 GitHub-статистика  
