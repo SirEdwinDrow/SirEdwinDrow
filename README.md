@@ -19,7 +19,7 @@
 - *Больше проектов в процессе...*  
 
 ### 📝 Статьи
-[Telegram: Voidmark](t.me/V0idMark)
+[Telegram: Voidmark](https://t.me/V0idMark)
 ### 📊 GitHub-статистика  
 ![Ваши статистики](https://github-readme-stats.vercel.app/api?username=SirEdwinDrow&show_icons=true&theme=dark&hide_border=true)  
 ![Часто используемые языки](https://github-readme-stats.vercel.app/api/top-langs/?username=SirEdwinDrow&layout=compact&theme=dark&hide_border=true)  
