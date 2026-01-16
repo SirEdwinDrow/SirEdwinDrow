@@ -17,6 +17,7 @@
 - [Parser on Python(Bs4) with GUI](https://github.com/SirEdwinDrow/Parser-on-bs4-GUI)
 - [Product site on Django](https://github.com/SirEdwinDrow/Product-SIte-on-Django)
 - [Gesture Recognition System](https://github.com/SirEdwinDrow/Gesture-Recognition-System)
+- [Cybersecurity Lab](https://github.com/SirEdwinDrow/cybersecurity-demo-lab)
 - *Больше проектов в процессе...*  
 
 ### 📝 Статьи
